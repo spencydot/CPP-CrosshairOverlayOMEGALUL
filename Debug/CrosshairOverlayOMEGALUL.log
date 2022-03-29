@@ -1,0 +1,8 @@
+﻿  Main.cpp
+E:\NOVAC\_main\Cpp\CrosshairOverlayOMEGALUL\Main.cpp(6,7): error C2601: 'DrawBorderBox': local function definitions are illegal
+E:\NOVAC\_main\Cpp\CrosshairOverlayOMEGALUL\Main.cpp(5): message : this line contains a '{' which has not yet been matched
+E:\NOVAC\_main\Cpp\CrosshairOverlayOMEGALUL\Main.cpp(15,1): error C2143: syntax error: missing ';' before '}'
+E:\NOVAC\_main\Cpp\CrosshairOverlayOMEGALUL\Main.cpp(8,3): error C3861: 'DrawFilledRect': identifier not found
+E:\NOVAC\_main\Cpp\CrosshairOverlayOMEGALUL\Main.cpp(9,3): error C3861: 'DrawFilledRect': identifier not found
+E:\NOVAC\_main\Cpp\CrosshairOverlayOMEGALUL\Main.cpp(10,3): error C3861: 'DrawFilledRect': identifier not found
+E:\NOVAC\_main\Cpp\CrosshairOverlayOMEGALUL\Main.cpp(11,3): error C3861: 'DrawFilledRect': identifier not found
